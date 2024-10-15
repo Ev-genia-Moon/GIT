@@ -18,6 +18,6 @@
 ### 3. Командная работа в Git и GitHub. Часть 2
 3.1. [Работа с issues](https://github.com/Ev-genia-Moon/Issue/tree/main)
 
-3.2. [Pull Request](https://github.com/netology-code/git-2-homeworks-pr/pull/6596)
+3.2. [Pull Request](https://github.com/Ev-genia-Moon/First-Pull-Request/tree/main)
 
 3.3. [Публикация проекта на GitHub Pages](https://ev-genia-moon.github.io/CHOCOLATE/)
