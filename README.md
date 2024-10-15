@@ -5,7 +5,7 @@
 
 1.2. [Создание веток](https://github.com/Ev-genia-Moon/NeuroStartUp/blob/new-text/Task%202.md)
 
-1.3. [Слияние веток](https://github.com/Ev-genia-Moon/Target)
+1.3. [Слияние веток](https://github.com/Ev-genia-Moon/Target/blob/main/Task%203.md)
 
 
 ### 2. Командная работа в Git и GitHub. Часть 1
