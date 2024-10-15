@@ -20,4 +20,4 @@
 
 3.2. [Pull Request](https://github.com/Ev-genia-Moon/First-Pull-Request/tree/main)
 
-3.3. [Публикация проекта на GitHub Pages](https://ev-genia-moon.github.io/CHOCOLATE/)
+3.3. [Публикация проекта на GitHub Pages](https://github.com/Ev-genia-Moon/GitHub-Pages/tree/main)
