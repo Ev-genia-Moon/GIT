@@ -9,7 +9,7 @@
 
 
 ### 2. Командная работа в Git и GitHub. Часть 1
-2.1. [Импорт существующего проекта](https://github.com/Ev-genia-Moon/Ign_Task_1/tree/main)
+2.1. [Импорт существующего проекта](https://github.com/Ev-genia-Moon/Ign_Task_1/blob/main/Task%201.md)
 
 2.2. [Откат изменений](https://github.com/Ev-genia-Moon/Rev_Task_2/commits/main/)
 
