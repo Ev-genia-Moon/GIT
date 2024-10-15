@@ -13,7 +13,7 @@
 
 2.2. [Откат изменений](https://github.com/Ev-genia-Moon/Rev_Task_2/blob/main/Task%202.md)
 
-2.3. [Конфликт при push'е](https://github.com/Ev-genia-Moon/git-2-homeworks-fork/blob/main/about/README.md)
+2.3. [Конфликт при push'е](https://github.com/Ev-genia-Moon/git-2-homeworks-fork/blob/main/about/Task%203.md)
 
 ### 3. Командная работа в Git и GitHub. Часть 2
 3.1. [Работа с issues](https://github.com/netology-code/git-2-homeworks-issues/issues/6596)
