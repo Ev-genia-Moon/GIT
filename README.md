@@ -11,7 +11,7 @@
 ### 2. Командная работа в Git и GitHub. Часть 1
 2.1. [Импорт существующего проекта](https://github.com/Ev-genia-Moon/Ign_Task_1/blob/main/Task%201.md)
 
-2.2. [Откат изменений](https://github.com/Ev-genia-Moon/Rev_Task_2/commits/main/)
+2.2. [Откат изменений](https://github.com/Ev-genia-Moon/Rev_Task_2/blob/main/Task%202.md)
 
 2.3. [Конфликт при push'е](https://github.com/Ev-genia-Moon/git-2-homeworks-fork/blob/main/about/README.md)
 
