@@ -3,7 +3,7 @@
 ### 1. Работа с удаленным репозиторием через GitHub
 1.1. [Публикация репозитория](https://github.com/Ev-genia-Moon/NeuroStartUp/blob/main/Task%201.md)
 
-1.2. [Создание веток](https://github.com/Ev-genia-Moon/NeuroStartUp/blob/new-text/README.md)
+1.2. [Создание веток](https://github.com/Ev-genia-Moon/NeuroStartUp/blob/new-text/Task%202.md)
 
 1.3. [Слияние веток](https://github.com/Ev-genia-Moon/Target)
 
