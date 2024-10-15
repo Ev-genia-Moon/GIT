@@ -1,7 +1,7 @@
 # Домашние работы по курсу GIT
 
 ### 1. Работа с удаленным репозиторием через GitHub
-1.1. [Публикация репозитория](https://github.com/Ev-genia-Moon/NeuroStartUp/tree/main)
+1.1. [Публикация репозитория](https://github.com/Ev-genia-Moon/NeuroStartUp/blob/main/Task%201.md)
 
 1.2. [Создание веток](https://github.com/Ev-genia-Moon/NeuroStartUp/blob/new-text/README.md)
 
